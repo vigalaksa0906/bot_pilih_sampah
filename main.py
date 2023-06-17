@@ -40,4 +40,4 @@ async def pilih(ctx):
     else:
         await ctx.send("Masukkan dalam anorganik")
 
-bot.run("MTEwNDczMjAwMTc3ODUzMjQ1Mg.GiUEET.cY3UtCIhJOV-Bri1hW3kV7aTQllz7-QinZyMLs")
+bot.run("MASUKKAN TOKEN DI SINI")
